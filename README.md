@@ -2,15 +2,24 @@
 
 <br clear="both">
 
-<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+<!-- Bloco Principal com os Card de Estatísticas -->
+<div style="display: flex; align-items: flex-start; justify-content: flex-start; flex-wrap: wrap;">
+
   <!-- Bloco de Estatísticas -->
-  <div>
+  <div style="flex: 1; margin-right: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=laviniadalbello&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=laviniadalbello&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
   </div>
 
-  <!-- Imagem do GIF -->
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWoyM2Q5aWt5bWl3MjA5c3lhbjJyMmYwa2ZlajF2ZTI2N3B0aTlxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AFbwh4z6Pye5WdtOxI/giphy.gif" height="220" style="margin-bottom: -15px;" />
+</div>
+
+<!-- Card Most Used embaixo do Card de Estatísticas -->
+<div style="margin-top: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=laviniadalbello&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
+
+<!-- Bloco do GIF (alinhado à direita) -->
+<div style="text-align: right; margin-top: 20px;">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWoyM2Q5aWt5bWl3MjA5c3lhbjJyMmYwa2ZlajF2ZTI2N3B0aTlxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AFbwh4z6Pye5WdtOxI/giphy.gif" height="220" />
 </div>
 
 ###
@@ -54,6 +63,6 @@
 ###
 
 <!-- Imagem da cobra logo abaixo dos ícones -->
-<div style="margin-top:-25px" align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/laviniadalbello/laviniadalbello/output/snake.svg" alt="Snake animation" />
 </div>
