@@ -24,19 +24,17 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-<!-- BADGES ANIMADOS -->
-![HTML](https://img.shields.io/badge/HTML5-FF1493?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-FF69B4?style=for-the-badge&logo=css3&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-FF1493?style=for-the-badge&logo=flutter&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-FF69B4?style=for-the-badge&logo=javascript&logoColor=white)
-![TS](https://img.shields.io/badge/TypeScript-FF1493?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-FF69B4?style=for-the-badge&logo=dart&logoColor=white)
-![NextJS](https://img.shields.io/badge/Next.js-FF1493?style=for-the-badge&logo=next.js&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-FF69B4?style=for-the-badge&logo=figma&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-FF1493?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white)
+  ![HTML](https://img.shields.io/badge/HTML5-FF1493?style=flat-square&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS3-FF69B4?style=flat-square&logo=css3&logoColor=white)
+  ![Flutter](https://img.shields.io/badge/Flutter-FF1493?style=flat-square&logo=flutter&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-FF69B4?style=flat-square&logo=javascript&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-FF1493?style=flat-square&logo=typescript&logoColor=white)
+  ![Dart](https://img.shields.io/badge/Dart-FF69B4?style=flat-square&logo=dart&logoColor=white)
+  ![Next.js](https://img.shields.io/badge/Next.js-FF1493?style=flat-square&logo=next.js&logoColor=white)
+  ![Figma](https://img.shields.io/badge/Figma-FF69B4?style=flat-square&logo=figma&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-FF1493?style=flat-square&logo=php&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-FF69B4?style=flat-square&logo=python&logoColor=white)
 </p>
-
 ---
 
 ## 🌸 Currently Learning
@@ -63,8 +61,13 @@
 ## 🐱 Coding Mood
 
 <p align="center">
+  <!-- GIF do gatinho -->
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTJmb3Q4OWN6MW5jZGxmM3R3NnhvdGd6NXphMmJkdHRibzlxejJ3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="220"/>
+</p>
+
+<p align="center">
   <!-- TEXTO ANIMADO PARA CODING MOOD -->
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF1493&size=24&center=true&vCenter=true&width=400&lines=💻+Coding;✨+Building;🚀+Debugging;💖+Enjoying"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF1493&size=28&center=true&vCenter=true&width=400&lines=💻+Coding+Mood;✨+Debugging;🚀+Building;💖+Enjoying"/>
 </p>
 
 ---
