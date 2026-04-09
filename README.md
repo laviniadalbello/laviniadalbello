@@ -1,9 +1,7 @@
 <!-- BANNER ROSA BEBÊ -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FADADD,100:FFC0CB&height=200&section=header&text=Lavínia%20Dal%20Bello&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 <!-- TEXTO ANIMADO -->
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FFB6C1&size=28&center=true&vCenter=true&width=700&lines=Front-End+Developer;UI%2FUX+Designer;Building+beautiful+experiences+💖"/>
 </p>
@@ -14,9 +12,9 @@
 
 ## 💫 About Me
 
-💻 Front-End Developer & UI/UX Designer
-📍 Brazil
-🎓 Pós-graduação em Engenharia Front-End
+💻 Front-End Developer & UI/UX Designer  
+📍 Brazil  
+🎓 Pós-graduação em Engenharia Front-End  
 ✨ Apaixonada por criar experiências bonitas, modernas e funcionais
 
 ---
@@ -31,9 +29,29 @@
 
 ## 🌸 Currently Learning
 
-✨ UI/UX avançado
-✨ Animações e microinterações
+✨ UI/UX avançado  
+✨ Animações e microinterações  
 ✨ Experiência do usuário
+
+---
+
+## 💼 Meus Projetos
+
+<p align="center">
+  <a href="https://github.com/lavidalbello/projeto1" target="_blank">
+    <img src="link-da-imagem-projeto1.png" alt="Projeto 1" width="200" style="border-radius:12px;margin:5px;">
+  </a>
+  <a href="https://github.com/lavidalbello/projeto2" target="_blank">
+    <img src="link-da-imagem-projeto2.png" alt="Projeto 2" width="200" style="border-radius:12px;margin:5px;">
+  </a>
+  <a href="https://github.com/lavidalbello/projeto3" target="_blank">
+    <img src="link-da-imagem-projeto3.png" alt="Projeto 3" width="200" style="border-radius:12px;margin:5px;">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/lavidalbello" style="background-color:#FFB6C1;color:white;padding:10px 20px;border-radius:10px;text-decoration:none;font-weight:bold;">View Portfolio</a>
+</p>
 
 ---
 
@@ -59,7 +77,6 @@
 ---
 
 <!-- FOOTER ROSA -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC0CB,100:FADADD&height=120&section=footer"/>
 
 ---
