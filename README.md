@@ -38,21 +38,24 @@
 ## 💼 Meus Projetos
 
 <p align="center">
-  <a href="https://github.com/lavidalbello/projeto1" target="_blank">
-    <img src="link-da-imagem-projeto1.png" alt="Projeto 1" width="200" style="border-radius:12px;margin:5px;">
-  </a>
-  <a href="https://github.com/lavidalbello/projeto2" target="_blank">
-    <img src="link-da-imagem-projeto2.png" alt="Projeto 2" width="200" style="border-radius:12px;margin:5px;">
-  </a>
-  <a href="https://github.com/lavidalbello/projeto3" target="_blank">
-    <img src="link-da-imagem-projeto3.png" alt="Projeto 3" width="200" style="border-radius:12px;margin:5px;">
-  </a>
+
+**[Projeto 1](https://github.com/laviniadalbello/pi)**  
+💻 Aplicativo flutter
+✨ Aplicativo de Todolist com IA para gerenciar tarefas.
+
+**[Projeto 2](https://github.com/laviniadalbello/TCC---2022)**  
+💻PHP,html,css, js
+✨ tcc do ano de 2022 em técnico de informatica para internet.
+
+**[Projeto 3](https://github.com/laviniadalbello/Todolist)**  
+💻 Projeto em Dart
+✨ Automação de tarefas.
+
 </p>
 
 <p align="center">
   <a href="https://github.com/lavidalbello" style="background-color:#FFB6C1;color:white;padding:10px 20px;border-radius:10px;text-decoration:none;font-weight:bold;">View Portfolio</a>
 </p>
-
 ---
 
 ## 🌐 Connect with me
