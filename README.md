@@ -24,7 +24,7 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,flutter,js,ts,dart,nextjs,figma,php,python&perline=5&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,flutter,js,ts,dart,nextjs,nodejs,figma,bootstrap,php,python&perline=5&theme=dark" />
 </p>
 
 
