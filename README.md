@@ -1,61 +1,82 @@
-<h2 align="left">Hi 👋! My name is Lavínia and I'm a developer and UI/UX designer from Brazil.</h2>
+<!-- BANNER -->
 
-<!-- GIF alinhado à direita e ao topo -->
-<img align="right" height="260" style="margin-top: -5px;" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTJmb3Q4OWN6MW5jZGxmM3R3NnhvdGd6NXphMmJkdHRibzlxejJ3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:BB6BF3&height=200&section=header&text=Lavínia%20Dal%20Bello&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
+<!-- TYPING EFFECT -->
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=BB6BF3&size=28&center=true&vCenter=true&width=700&lines=Front-End+Developer;UI%2FUX+Designer;Flutter+Specialist;Building+beautiful+and+functional+apps+💜"/>
+</p>
 
-<!-- Cards de estatísticas empilhados -->
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=laviniadalbello&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="123" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=laviniadalbello&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
+---
 
-###
+<img align="right" src="https://media.tenor.com/2roX3uxz_68AAAAC/cat-computer.gif" width="280"/>
 
-<!-- Ícones das tecnologias -->
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" />
-</div>
+## 💫 About Me
 
-###
+💻 Developer & UI/UX Designer
+📍 Brazil
+🎓 Pós-graduação em Engenharia Front-End
+✨ Apaixonada por criar experiências bonitas e funcionais
 
-<!-- Links de contato -->
-<div align="left">
-  <a href="https://www.instagram.com/lavidalbello?igsh=dGpndWNsanRpNXFm" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
+---
+
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,flutter,figma,php,dart" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=laviniadalbello&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laviniadalbello&layout=compact&theme=radical&hide_border=true&bg_color=0d1117"/>
+</p>
+
+---
+
+## 🔥 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=laviniadalbello&theme=react-dark&hide_border=true&bg_color=0d1117" />
+
+---
+
+## 🧠 Currently Learning
+
+✨ Flutter avançado
+✨ UI/UX moderno
+✨ Animações e microinterações
+
+---
+
+## 🌐 Connect with me
+
+<p align="center">
+  <a href="https://www.instagram.com/lavidalbello">
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-<a href="mailto:laviniadalbelloesouza@gmail.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo" />
-</a>
-
-
-  <a href="https://www.linkedin.com/in/lavinia-dal-bello-638821270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/lavinia-dal-bello">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-</div>
+</p>
 
+---
 
+## 🐱 Coding Mood
 
-###
+<p align="center">
+  <img src="https://media.tenor.com/2roX3uxz_68AAAAC/cat-computer.gif" width="250"/>
+</p>
 
+---
 
+<!-- FOOTER -->
 
-<!-- Animação da cobra -->
-<img src="https://raw.githubusercontent.com/laviniadalbello/laviniadalbello/output/snake.svg" alt="Snake animation" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BB6BF3,100:0d1117&height=120&section=footer"/>
+
+---
+
+💜 *“Design is not just how it looks, but how it works.”*
