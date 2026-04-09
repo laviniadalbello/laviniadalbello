@@ -49,21 +49,12 @@
 
 ---
 
-## 🐱 Coding Mood
-
+## 🐱 Coding Mood 
 <p align="center">
-  <!-- GIF do gatinho -->
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTJmb3Q4OWN6MW5jZGxmM3R3NnhvdGd6NXphMmJkdHRibzlxejJ3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="220"/>
 </p>
 
 
-
-
-
-<p align="center">
-  <!-- GIF do gatinho -->
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTJmb3Q4OWN6MW5jZGxmM3R3NnhvdGd6NXphMmJkdHRibzlxejJ3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="220"/>
-</p>
 
 
 ---
