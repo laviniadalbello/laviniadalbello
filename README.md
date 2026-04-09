@@ -1,11 +1,11 @@
-<!-- BANNER ROSA BEBÊ -->
+<!-- BANNER ROSA VIBRANTE -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FADADD,100:FFC0CB&height=200&section=header&text=Lavínia%20Dal%20Bello&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:FF1493&height=200&section=header&text=Lavínia%20Dal%20Bello&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 <!-- TEXTO ANIMADO -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFB6C1&size=28&center=true&vCenter=true&width=700&lines=Front-End+Developer;UI%2FUX+Designer;Building+beautiful+experiences+💖"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF1493&size=28&center=true&vCenter=true&width=700&lines=Front-End+Developer;UI%2FUX+Designer;Building+beautiful+experiences+💖"/>
 </p>
 
 ---
@@ -14,10 +14,12 @@
 
 ## 💫 About Me
 
-💻 Front-End Developer & UI/UX Designer
-📍 Brazil
-🎓 Pós-graduação em Engenharia Front-End
-✨ Apaixonada por criar experiências bonitas, modernas e funcionais
+💻 Front-End Developer & UI/UX Designer  
+📍 Brasil  
+🎓Estudante de  Pós-graduação em Engenharia Front-End - Fiap
+🎓 Graduada em ADS - Unifeob
+🎓Técnica em informática para a internet -Etec
+✨ Apaixonada por criar experiências bonitas, modernas e funcionais  
 
 ---
 
@@ -31,9 +33,9 @@
 
 ## 🌸 Currently Learning
 
-✨ UI/UX avançado
-✨ Animações e microinterações
-✨ Experiência do usuário
+✨ UI/UX  
+✨ Animações e microinterações  
+✨ Experiência do usuário  
 
 ---
 
@@ -58,9 +60,9 @@
 
 ---
 
-<!-- FOOTER ROSA -->
+<!-- FOOTER ROSA VIBRANTE -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC0CB,100:FADADD&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:FF69B4&height=120&section=footer"/>
 
 ---
 
