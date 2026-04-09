@@ -1,54 +1,39 @@
-<!-- BANNER -->
+<!-- BANNER ROSA BEBÊ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:BB6BF3&height=200&section=header&text=Lavínia%20Dal%20Bello&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FADADD,100:FFC0CB&height=200&section=header&text=Lavínia%20Dal%20Bello&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
-<!-- TYPING EFFECT -->
+<!-- TEXTO ANIMADO -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=BB6BF3&size=28&center=true&vCenter=true&width=700&lines=Front-End+Developer;UI%2FUX+Designer;Flutter+Specialist;Building+beautiful+and+functional+apps+💜"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFB6C1&size=28&center=true&vCenter=true&width=700&lines=Front-End+Developer;UI%2FUX+Designer;Building+beautiful+experiences+💖"/>
 </p>
 
 ---
 
-<img align="right" src="https://media.tenor.com/2roX3uxz_68AAAAC/cat-computer.gif" width="280"/>
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTJmb3Q4OWN6MW5jZGxmM3R3NnhvdGd6NXphMmJkdHRibzlxejJ3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="260"/>
 
 ## 💫 About Me
 
-💻 Developer & UI/UX Designer
+💻 Front-End Developer & UI/UX Designer
 📍 Brazil
 🎓 Pós-graduação em Engenharia Front-End
-✨ Apaixonada por criar experiências bonitas e funcionais
+✨ Apaixonada por criar experiências bonitas, modernas e funcionais
 
 ---
 
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,flutter,figma,php,dart" />
+  <img src="https://skillicons.dev/icons?i=html,css,flutter,js,ts,dart,nextjs,figma,php,python" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🌸 Currently Learning
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=laviniadalbello&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laviniadalbello&layout=compact&theme=radical&hide_border=true&bg_color=0d1117"/>
-</p>
-
----
-
-## 🔥 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=laviniadalbello&theme=react-dark&hide_border=true&bg_color=0d1117" />
-
----
-
-## 🧠 Currently Learning
-
-✨ Flutter avançado
-✨ UI/UX moderno
+✨ UI/UX avançado
 ✨ Animações e microinterações
+✨ Experiência do usuário
 
 ---
 
@@ -68,15 +53,15 @@
 ## 🐱 Coding Mood
 
 <p align="center">
-  <img src="https://media.tenor.com/2roX3uxz_68AAAAC/cat-computer.gif" width="250"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTJmb3Q4OWN6MW5jZGxmM3R3NnhvdGd6NXphMmJkdHRibzlxejJ3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="220"/>
 </p>
 
 ---
 
-<!-- FOOTER -->
+<!-- FOOTER ROSA -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BB6BF3,100:0d1117&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC0CB,100:FADADD&height=120&section=footer"/>
 
 ---
 
-💜 *“Design is not just how it looks, but how it works.”*
+💖 *“Design is not just how it looks, but how it works.”*
